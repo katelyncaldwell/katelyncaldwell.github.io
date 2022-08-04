@@ -16,7 +16,12 @@ Advisor info goes here.
 
 ## About My Project
 
-Project description goes here.
+In recent years, the development of Big Language Models — a collection of pre-trained Transformer models used for transfer learning — has led to increased performance on many natural language processing benchmarks. Interestingly, though, how these models learn patterns in the data — what information about language they encode into hidden representations — is largely unknown.
+
+To explore the hidden representations, researchers have developed probing classifiers, which are simple diagnostic models trained on an LM’s hidden representations. These probes achieve high accuracy on simple classifications, such as identifying part of speech or syntactic dependency. Researchers have believed that this high accuracy indicates the LMs actually encode this linguistic information in the hidden representations, but recently others have raised the question: when using this method to explain NLP models, how do we know that LMs encode this information and not that the probing classifier memorizes it?
+
+To investigate this question, I intend to run probing experiments similar to those above, but with an additional step in the process: before training the probe, I will use a linear classifier to isolate the vector of dimensions encoding linguistic information e.g. “noun-ness.” I will then project out this vector from the hidden representation. I hypothesize that the probe will no longer achieve high accuracy after removing this information, confirming that probes correctly analyze linguistic information encoded by LMs.
+
 
 [My Final Report](files/finalreport.pdf)
 
