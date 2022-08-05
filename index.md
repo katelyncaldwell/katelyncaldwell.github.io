@@ -12,7 +12,7 @@ Hi, I’m Kate, a graduate student in CS, focusing on Machine Learning. This sum
 
 ## About My Advisor
 
-# Bruce Maxwell, Ph.D
+### Bruce Maxwell, Ph.D
 
 I was a professor and chair of the CS Department at Colby College from 2013 until 2020. I then started up the Khoury College MS CS and MS CS Align Programs at the Roux Institute in Portland, ME from 2020-2022 before moving to the Northeastern Seattle Campus as Teaching Professor and Assistant Director of Computing Programs. I'm continuing to work with the MS CS Align Program at Northeastern, and bridge program for students without an undergraduate CS degree to become computer scientists and software engineers.
 
