@@ -12,7 +12,13 @@ Hi, I’m Kate, a graduate student in CS, focusing on Machine Learning. This sum
 
 ## About My Advisor
 
-Advisor info goes here.
+# Bruce Maxwell, Ph.D
+
+I was a professor and chair of the CS Department at Colby College from 2013 until 2020. I then started up the Khoury College MS CS and MS CS Align Programs at the Roux Institute in Portland, ME from 2020-2022 before moving to the Northeastern Seattle Campus as Teaching Professor and Assistant Director of Computing Programs. I'm continuing to work with the MS CS Align Program at Northeastern, and bridge program for students without an undergraduate CS degree to become computer scientists and software engineers.
+
+My teaching and research interests include Computer Vision, Robotics, Computer Graphics, Game Design, and Data Analysis and Visualization. I worked with the the Maine Concussion Management Initiative [MCMI] from 2010-2020 helping develop tools for analyzing and monitoring concussions in high school and college athletes as well as using measurements of balance to quickly identify potential concussions.
+
+Outside of the classroom and lab I enjoy music (violin and viola), swimming, running, biking, hiking, birding, carpentry, and gardening.
 
 ## About My Project
 
